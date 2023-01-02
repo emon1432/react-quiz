@@ -12,5 +12,8 @@
   "typescript.validate.enable": false,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
